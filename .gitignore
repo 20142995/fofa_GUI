@@ -173,3 +173,4 @@ favicon.ico
 requirements.txt
 *.bat
 dist/
+*.py
